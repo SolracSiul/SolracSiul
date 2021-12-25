@@ -1,4 +1,4 @@
-## Olá mundo esse é meu perfil teste
+## Hii, welcome to my repository!
 
 - :man_technologist:	 i’m currently learning Java and Front-end skills
 - 🤔 i’m looking for help with my bigdata project
@@ -8,8 +8,8 @@
 
 <div>
  <a href=https://github.com/SolracSiul">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SolracSiul&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolracSiul&layout=compact&langs_count=7&theme=merko"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=SolracSiul&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolracSiul&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Logo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
