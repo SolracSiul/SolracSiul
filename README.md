@@ -1,7 +1,6 @@
 ## Hii, welcome to my repository!
 
 - :man_technologist:	 i’m currently learning Java and Front-end skills
-- 🤔 i’m looking for help with my bigdata project
 - :man_teacher:	in free time
 - :joystick:	i'm not a good player
 
