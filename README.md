@@ -1,9 +1,6 @@
 ## Hii, welcome to my repository!
 
 - :man_technologist:	 i’m currently learning Java and Front-end skills
-- :man_teacher:	in free time
-- :joystick:	i'm not a good player
-
 
 <div>
  <a href=https://github.com/SolracSiul">
