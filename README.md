@@ -1,6 +1,6 @@
 ## Hii, welcome to my repository!
 
-- :man_technologist:	 i’m currently learning Java and Front-end skills
+- :man_technologist:	 i’m currently learning Javascript and Front-end skills
 
 <div>
  <a href=https://github.com/SolracSiul">
