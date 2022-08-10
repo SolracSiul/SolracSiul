@@ -1,7 +1,6 @@
 ## Hii, welcome to my repository!
 
 - :man_technologist:	 i’m currently learning Javascript and Front-end skills
-- i'm Software Developer Intern at DBC Company
 
 <div>
  <a href=https://github.com/SolracSiul">
