@@ -1,6 +1,8 @@
 ## Hii, welcome to my repository!
 
-- :man_technologist:	 i’m currently learning Javascript and Front-end skills
+- :man_technologist:	 I'm currently studying java and angular
+- :computer: information systems student
+
 
 <div>
  <a href=https://github.com/SolracSiul">
@@ -25,3 +27,4 @@
 </div>
                                                                                                                                           
                                                                                                                                          
+computadores fazem arte 
