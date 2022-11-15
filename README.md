@@ -1,7 +1,6 @@
 ## Hii, welcome to my repository!
 
-- :man_technologist:	 I'm currently studying java and angular
-- :computer: information systems student
+- :man_technologist:	 I'm currently studying java and react
 
 
 <div>
