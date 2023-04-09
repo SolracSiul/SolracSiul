@@ -1,6 +1,7 @@
-## Hii, welcome to my repository!
+## Hii!
 
 - :man_technologist:	 I'm currently studying java and react
+
+
                                                                                                                                           
                                                                                                                                          
-computadores fazem arte 
