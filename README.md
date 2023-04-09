@@ -1,6 +1,6 @@
 ## Hii!
 
-- :man_technologist:	 I'm currently studying java and react
+- :man_technologist:	 developer
 
 
                                                                                                                                           
